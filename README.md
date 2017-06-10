@@ -1,2 +1,2 @@
-# tea
+# Tea
 The Tea Programming Language
